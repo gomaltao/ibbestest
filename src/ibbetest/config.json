@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "ibbetest"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-ibbetest-c8b1204b-0c73-44c1-ba3a-716ecd98d114;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}

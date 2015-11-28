@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{19156DC4-994B-4BF4-8B11-00F11620D83E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E3F4AA03-BF21-47B9-B460-183F43ACC039}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "ibbetest", "src\ibbetest\ibbetest.xproj", "{E59219C5-C2DF-4FF5-97E3-344CED479F36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E59219C5-C2DF-4FF5-97E3-344CED479F36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E59219C5-C2DF-4FF5-97E3-344CED479F36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E59219C5-C2DF-4FF5-97E3-344CED479F36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E59219C5-C2DF-4FF5-97E3-344CED479F36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E59219C5-C2DF-4FF5-97E3-344CED479F36} = {19156DC4-994B-4BF4-8B11-00F11620D83E}
+	EndGlobalSection
+EndGlobal
